@@ -1,4 +1,6 @@
 #!/bin/bash/python27
+# Author: Abdul Aziz
+# GitHub: @abdu1aziz
 
 from flask import Flask, jsonify, render_template, request
 from urllib2 import urlopen
